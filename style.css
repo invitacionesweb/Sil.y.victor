@@ -307,7 +307,12 @@ header {
     gap: 20px;
 
 }
-
+.iconn {
+    width: 60px;
+}
+.iconnn {
+    width: 180px;
+}
 
 footer {
     width: 100%;
